@@ -1,5 +1,5 @@
 fastapi==0.93.0 
 uvicorn==0.21.0 
 snscrape==0.6.0.20230303
-re 
+regex==2022.10.31 
 
